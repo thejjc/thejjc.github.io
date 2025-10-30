@@ -1,6 +1,6 @@
 # Project: Solid Rocket Motor Nozzle Analysis
 
-[← Back to Main Page](/https://thejjc.github.io/)
+[← Back to Main Page](/)
 
 ---
 
