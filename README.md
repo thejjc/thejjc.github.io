@@ -1,6 +1,7 @@
 # thejjc.github.io
 General Portfolio
-# My Name
+# John Chang
+Purdue University Undergraduate (Fall 2026)
 *Aeronautical and Astronautical Engineer specializing in propulsion and structural mechanics.*
 
 ---
@@ -12,6 +13,7 @@ General Portfolio
 I am an engineering student passionate about Propulsion and Defense systems. My goal is to work on challenging projects in the aerospace industry. This portfolio showcases my best work and technical projects.
 
 * **Email:** chang974@purdue.edu
+* <a href="https://www.google.com" target="_blank">Google Search Test</a>
 * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/-john-chang/)
 * **GitHub:** [My GitHub](https://github.com/thejjc)
 
