@@ -14,7 +14,7 @@ I am an engineering student passionate about Propulsion and Defense systems. My 
 
 * **Email:** chang974@purdue.edu
 * <a href="https://www.google.com" target="_blank">Google Search Test</a>
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/-john-chang/)
+* **LinkedIn** <a href="https://www.linkedin.com/in/-john-chang/" target="_blank">My LinkedIn Profile</a>
 * **GitHub:** [My GitHub](https://github.com/thejjc)
 
 ---
