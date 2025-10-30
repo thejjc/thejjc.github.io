@@ -1,6 +1,6 @@
 # Project: Solid Rocket Motor Nozzle Analysis
 
-[← Back to Main Page](index.md)
+[← Back to Main Page](README.md)
 
 ---
 
