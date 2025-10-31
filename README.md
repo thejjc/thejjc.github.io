@@ -2,7 +2,7 @@
 General Portfolio
 # John Chang
 Purdue University Undergraduate (Fall 2026)
-\n
+<\n>
 *Aeronautical and Astronautical Engineer specializing in propulsion and structural mechanics.*
 
 ---
