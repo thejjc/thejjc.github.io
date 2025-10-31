@@ -1,21 +1,15 @@
-# John Chang's Engineering Portfolio!
-An accumulation of engineering work est. 2023
-# John Chang
-Purdue University Undergraduate (Expected Fall '26)  
-*Bachelor of Science in Aeronautics and Astronautics Engineering specializing in propulsion and structural mechanics.*
-
+# JJC ##
+An accumulation of everything random est. 2025
 ---
 
 
 
-## About Me
+## All the craziness accumulated in one place basically
 
-I am an engineering student passionate about Rocket Propulsion and Defense systems. My goal is to dive into deep space propulsions systems and advance space travel in the aerospace industry. This portfolio is the accumulation of my work and technical projects.
+Engineer, Creator, NotAPhotographer, ... listed below is the good stuff i guess
 
 # Relevant Links
-* **Email:** <a href="chang974@purdue.edu" target="_blank">chang974@purdue.edu</a>
-* **LinkedIn** <a href="https://www.linkedin.com/in/-john-chang/" target="_blank">My LinkedIn Profile</a>
-* **GitHub:** [My GitHub](https://github.com/thejjc)
+* **Youtube** <a href="https://youtube.com/@JJCstreams" target="_blank">@JJCstreams</a>
 
 ---
 
