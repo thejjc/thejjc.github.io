@@ -1,8 +1,7 @@
 # Welcome to my showcase space!
 General Portfolio
 # John Chang
-Purdue University Undergraduate (Fall 2026)
-<\n>
+Purdue University Undergraduate (Fall 2026)  
 *Aeronautical and Astronautical Engineer specializing in propulsion and structural mechanics.*
 
 ---
